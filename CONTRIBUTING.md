@@ -85,7 +85,7 @@ contribution meets the quality bar of the project.
 
 1. If it is a major feature or a semantical change, please don't start coding
 straight away: if your feature is not a conceptual fit you'll lose a lot of
-time writing the code without any reason. Start by creating an issue at Github with the
+time writing the code without any reason. Start by creating an issue at GitHub with the
 description of, exactly, what you want to accomplish and why. Use cases are important for
 features to be accepted. Here you can see if there is consensus about your idea.
 

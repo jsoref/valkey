@@ -849,7 +849,7 @@ TEST_F(RaxTest, raxRegressionTest3) {
     raxFree(rt);
 }
 
-/* Regression test #4: Github issue #8, iterator does not populate the
+/* Regression test #4: GitHub issue #8, iterator does not populate the
  * data field after seek in case of exact match. The test case is looks odd
  * because it is quite indirect: Seeking "^" will result into seeking
  * the element >= "", and since we just added "" an exact match happens,
