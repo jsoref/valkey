@@ -2121,7 +2121,7 @@ usage:
         "                    the scheme 'valkeys'.\n"
         " -c <clients>       Number of parallel connections (default 50).\n"
         "                    Note: If --cluster is used then number of clients has to be\n"
-        "                    the same or higher than the number of nodes.\n"
+        "                    the same or greater than the number of nodes.\n"
         " -n <requests>      Total number of requests (default 100000)\n"
         " --duration <seconds>\n"
         "                    Run benchmark for specified number of seconds\n"
