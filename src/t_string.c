@@ -83,7 +83,7 @@ void setGenericCommand(client *c,
                        robj *ok_reply,
                        robj *abort_reply,
                        robj *comparison) {
-    mstime_t milliseconds = 0; /* initialized to avoid any harmness warning */
+    mstime_t milliseconds = 0; /* initialized to avoid any harmless warning */
     int found = 0;
     int setkey_flags = 0;
 
